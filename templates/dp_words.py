@@ -1,0 +1,20 @@
+dp_words = [
+    "nanostructured", "porous", "granular", "homogeneous", "heterogeneous", "amorphous",
+    "crystalline", "polycrystalline", "single-crystal", "nanoparticles", "microparticles",
+    "surface roughness", "edge features", "intergranular", "porosity", "surface morphology",
+    "subsurface structure", "crack propagation", "dendritic structures", "crack initiation",
+    "fibrillar structure", "phase boundaries", "surface coating", "concentric layers",
+    "pore size distribution", "grain boundaries", "nanotubes", "wavelength contrast",
+    "electron diffraction pattern", "atomic resolution", "fracture surface", "surface defects",
+    "inhomogeneity", "crystal lattice", "polymer matrix", "in-situ observation", "epitaxial growth",
+    "pillar-like structures", "spherical particles", "hollow particles", "twinned crystals",
+    "amorphous clusters", "coarse grains", "fine grains", "defect clusters", "high aspect ratio",
+    "banded structure", "phase transition", "elastic deformation", "plastic deformation", 
+    "polyhedral", "equiaxed", "dendritic", "eutectic", "intragranular", "interphase", "grain boundary", 
+    "subgrain", "recrystallization", "twinning", "strain-induced", "inclusion", "pore size", 
+    "pore distribution", "fatigue crack", "impact damage", "wear debris", "oxide layer", "corrosion pits", 
+    "intermetallic compound", "carbide formation", "nitride formation", "sulfide formation", "interdiffusion zone", 
+    "dislocation density", "dislocation networks", "stacking faults", "twin boundaries", "coarsening", "coagulation", 
+    "sintering", "hot pressing", "cold working", "quenching", "tempering", "annealing", "aging", "precipitation hardening", 
+    "solid solution strengthening", "work hardening", "microstructural evolution", "nanostructured materials"
+]
